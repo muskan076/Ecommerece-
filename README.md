@@ -41,6 +41,15 @@ The best performing algorithms:
 1. Support Vector Machine
 2. Multinomial Naive Bayes
 
+# References:
+
+* https://www.youtube.com/watch?v=tYZ6cpatw-w&t=209s
+* https://www.youtube.com/watch?v=Qbd7U9F0QQ8&t=2544s
+* https://www.youtube.com/watch?v=YncZ0WwxyzU&t=5006s
+* https://www.geeksforgeeks.org/bag-of-words-bow-model-in-nlp/
+* https://stackoverflow.com
+* https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+* https://medium.com/
 
 
 
